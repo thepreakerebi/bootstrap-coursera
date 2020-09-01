@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-course",
+  "version": "1.0.0",
+  "description": "a bootstrap website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Elvis Preye Kerebi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
